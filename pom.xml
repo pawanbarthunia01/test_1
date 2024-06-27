@@ -68,7 +68,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>test.jar</finalName>
+		<finalName>test</finalName>
 	</build>
 
 
